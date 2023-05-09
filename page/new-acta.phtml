@@ -1,0 +1,80 @@
+<?php if (empty($candidatos)): ?>
+    <p>No TODO items found.</p>
+<?php else: ?>
+<script type="text/javascript" src="js/actauvalidation.js"></script>
+<div class="page-header">
+  <h3>ACTA VOTACION <?= $tipod; ?></h3>
+  <?php if (isset($yaexiste)): ?>
+  <div class="alert alert-warning">
+    <strong>¡Advertencia!</strong>&nbsp;<?= sprintf('El acta número %s ya se encuentra registrada por favor revisar. ', $_POST['numero']); ?>
+  </div>
+  <?php endif; ?>
+</div>
+    <form class="form-horizontal" id="myForm" method="post" onsubmit="return validateForm()">
+        <div class="form-group">
+            <label for="numero" class="col-sm-10 control-label">NUMERO DE ACTA</label>
+            <div class="col-sm-2">
+                <input type="text" class="form-control" id="numero" placeholder="" name="numero" required>
+              <input type="hidden" name="tipocandidato" value="<?= $tipo; ?>">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="total" class="col-sm-10 control-label">TOTAL FIRMAS Y HUELLAS DACTILARES QUE CONSTAN EN EL PADRÓN ELECTORAL</label>
+          <div class="col-sm-2">
+              <input type="number" class="form-control" id="total" placeholder="" name="total" min="0" max="9999" required>
+          </div>
+        </div>
+        <div class="form-group">
+            <label for="blancos" class="col-sm-10 control-label">VOTOS BLANCOS</label>
+            <div class="col-sm-2">
+              <input type="number" class="form-control" id="blancos" placeholder="" name="blancos" min="0" max="9999">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="nulos" class="col-sm-10 control-label">VOTOS NULOS</label>
+            <div class="col-sm-2">
+              <input type="number" class="form-control" id="nulos" placeholder="" name="nulos" min="0" max="9999">
+            </div>
+        </div>
+      <div class="panel panel-default">
+        <div class="panel-heading">VOTACION OBTENIDA POR LOS CANDIDATOS</div>
+        <table class="table table-condensed">
+              <thead>
+                  <tr>
+                      <th>LISTAS</th>
+                      <th>CANDIDATOS</th>
+                      <th>VOTOS</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <?php foreach ($candidatos as $candidato): ?>
+                      <tr>
+                          <td><?= $candidato['listas_codigolista'] ?></td>
+                          <td><?= utf8_encode($candidato['nombre']) ?></td>
+                          <td><input type="number" class="form-control" id="<?= $candidato['idcandidato'] ?>" name="<?= 'vn_'.$candidato['idcandidato'] ?>" min="0" max="9999"></td>
+                      </tr>
+                  <?php endforeach; ?>
+              </tbody>
+          </table>
+        </div>
+        <button type="submit" class="btn btn-primary" name="save">Registrar</button>      
+    </form>
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Alerta</h4>
+      </div>
+      <div class="modal-body">
+        <p id="msgvalidation"></p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+        <button type="button" class="btn btn-primary" onclick="enviarForm()">Registrar</button>
+      </div>
+    </div>
+  </div>
+</div>
+<?php endif; ?>

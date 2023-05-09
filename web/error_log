@@ -1,0 +1,801 @@
+[11-Mar-2019 15:37:22 America/New_York] PHP Warning:  syntax error, unexpected '!' in /home/codibnwv/public_html/elecciones/config/config.ini on line 4
+ in /home/codibnwv/public_html/elecciones/config/Config.php on line 35
+[11-Mar-2019 15:45:28 America/New_York] PHP Fatal error:  Call to undefined method ActaDao::exec() in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 25
+[11-Mar-2019 15:46:53 America/New_York] guardar acta
+[11-Mar-2019 15:46:53 America/New_York] PHP Fatal error:  Call to undefined method ActaDao::exec() in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 25
+[11-Mar-2019 15:56:06 America/New_York] guardar acta
+[11-Mar-2019 15:56:06 America/New_York] PHP Fatal error:  Call to undefined method ActaDao::exec() in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 25
+[11-Mar-2019 15:59:30 America/New_York] guardar acta
+[11-Mar-2019 15:59:30 America/New_York] PHP Fatal error:  Call to undefined method ActaDao::exec() in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 25
+[11-Mar-2019 16:00:18 America/New_York] guardar acta
+[11-Mar-2019 16:00:18 America/New_York] PHP Fatal error:  Call to undefined method ActaDao::exec() in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 25
+[11-Mar-2019 16:01:06 America/New_York] guardar acta
+[11-Mar-2019 16:01:06 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 21
+[11-Mar-2019 16:02:03 America/New_York] guardar acta
+[11-Mar-2019 16:02:03 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 21
+[11-Mar-2019 16:22:04 America/New_York] guardar acta
+[11-Mar-2019 16:22:15 America/New_York] guardar acta
+[11-Mar-2019 16:22:15 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 21
+[11-Mar-2019 16:25:25 America/New_York] guardar acta
+[11-Mar-2019 16:25:55 America/New_York] guardar acta
+[11-Mar-2019 16:26:22 America/New_York] guardar acta
+[11-Mar-2019 16:26:49 America/New_York] guardar acta
+[11-Mar-2019 16:27:10 America/New_York] guardar acta
+[11-Mar-2019 16:28:23 America/New_York] guardar acta
+[11-Mar-2019 16:29:05 America/New_York] guardar acta
+[11-Mar-2019 16:29:05 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 23
+[11-Mar-2019 16:29:23 America/New_York] guardar acta
+[11-Mar-2019 16:29:23 America/New_York] PHP Fatal error:  Call to undefined method ActaDao::test() in /home/codibnwv/public_html/elecciones/page/new-acta.php on line 33
+[11-Mar-2019 16:29:50 America/New_York] guardar acta
+[11-Mar-2019 16:29:50 America/New_York] PHP Fatal error:  Call to undefined method ActaDao::test() in /home/codibnwv/public_html/elecciones/page/new-acta.php on line 33
+[11-Mar-2019 16:30:05 America/New_York] guardar acta
+[11-Mar-2019 16:30:48 America/New_York] guardar acta
+[11-Mar-2019 16:31:10 America/New_York] guardar acta
+[11-Mar-2019 17:00:16 America/New_York] guardar acta
+[11-Mar-2019 17:00:16 America/New_York] PHP Fatal error:  Call to undefined method ActaDao::exec() in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 28
+[11-Mar-2019 17:13:16 America/New_York] guardar acta
+[11-Mar-2019 17:13:16 America/New_York] PHP Fatal error:  Call to undefined method ActaDao::execute() in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 28
+[11-Mar-2019 17:14:06 America/New_York] guardar acta
+[11-Mar-2019 17:14:06 America/New_York] PHP Fatal error:  Call to undefined method PDO::exe() in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 28
+[11-Mar-2019 17:14:20 America/New_York] guardar acta
+[11-Mar-2019 17:14:20 America/New_York] PHP Fatal error:  Call to undefined method PDO::execute() in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 28
+[11-Mar-2019 17:18:01 America/New_York] guardar acta
+[11-Mar-2019 17:18:36 America/New_York] guardar acta
+[11-Mar-2019 17:19:30 America/New_York] guardar acta
+[11-Mar-2019 17:19:45 America/New_York] guardar acta
+[11-Mar-2019 19:43:48 America/New_York] guardar acta
+[11-Mar-2019 19:43:56 America/New_York] guardar acta
+[11-Mar-2019 20:07:44 America/New_York] guardar acta
+[11-Mar-2019 20:08:28 America/New_York] guardar acta
+[11-Mar-2019 20:12:19 America/New_York] guardar acta
+[11-Mar-2019 20:14:39 America/New_York] guardar acta
+[11-Mar-2019 20:15:40 America/New_York] guardar acta
+[11-Mar-2019 20:17:29 America/New_York] guardar acta
+[11-Mar-2019 23:48:52 America/New_York] PHP Warning:  syntax error, unexpected '!' in /home/codibnwv/public_html/elecciones/config/config.ini on line 4
+ in /home/codibnwv/public_html/elecciones/config/Config.php on line 35
+[12-Mar-2019 00:06:10 America/New_York] PHP Fatal error:  Class 'RecintoDao' not found in /home/codibnwv/public_html/elecciones/page/new-acta-pa.php on line 3
+[12-Mar-2019 00:08:49 America/New_York] PHP Warning:  syntax error, unexpected '!' in /home/codibnwv/public_html/elecciones/config/config.ini on line 5
+ in /home/codibnwv/public_html/elecciones/config/Config.php on line 35
+[12-Mar-2019 00:27:41 America/New_York] PHP Fatal error:  Call to undefined method RecintoDao::throwDbError() in /home/codibnwv/public_html/elecciones/dao/RecintoDao.php on line 56
+[12-Mar-2019 00:59:25 America/New_York] PHP Notice:  Undefined variable: config in /home/codibnwv/public_html/elecciones/dao/CandidatoDao.php on line 33
+[12-Mar-2019 00:59:25 America/New_York] PHP Notice:  Undefined variable: config in /home/codibnwv/public_html/elecciones/dao/CandidatoDao.php on line 33
+[12-Mar-2019 00:59:25 America/New_York] PHP Notice:  Undefined variable: config in /home/codibnwv/public_html/elecciones/dao/CandidatoDao.php on line 33
+[12-Mar-2019 01:05:48 America/New_York] PHP Notice:  Undefined variable: config in /home/codibnwv/public_html/elecciones/dao/CandidatoDao.php on line 33
+[12-Mar-2019 01:05:48 America/New_York] PHP Notice:  Undefined variable: config in /home/codibnwv/public_html/elecciones/dao/CandidatoDao.php on line 33
+[12-Mar-2019 01:05:48 America/New_York] PHP Notice:  Undefined variable: config in /home/codibnwv/public_html/elecciones/dao/CandidatoDao.php on line 33
+[12-Mar-2019 01:06:52 America/New_York] PHP Notice:  Undefined variable: config in /home/codibnwv/public_html/elecciones/dao/CandidatoDao.php on line 33
+[12-Mar-2019 01:06:52 America/New_York] PHP Notice:  Undefined variable: config in /home/codibnwv/public_html/elecciones/dao/CandidatoDao.php on line 33
+[12-Mar-2019 01:06:52 America/New_York] PHP Notice:  Undefined variable: config in /home/codibnwv/public_html/elecciones/dao/CandidatoDao.php on line 33
+[12-Mar-2019 01:06:54 America/New_York] PHP Notice:  Undefined variable: config in /home/codibnwv/public_html/elecciones/dao/CandidatoDao.php on line 33
+[12-Mar-2019 01:06:54 America/New_York] PHP Notice:  Undefined variable: config in /home/codibnwv/public_html/elecciones/dao/CandidatoDao.php on line 33
+[12-Mar-2019 01:06:54 America/New_York] PHP Notice:  Undefined variable: config in /home/codibnwv/public_html/elecciones/dao/CandidatoDao.php on line 33
+[12-Mar-2019 21:46:03 America/New_York] PHP Fatal error:  Class 'Utils' not found in /home/codibnwv/public_html/elecciones/page/new-acta-p.phtml on line 30
+[12-Mar-2019 21:48:12 America/New_York] PHP Fatal error:  Class 'Utils' not found in /home/codibnwv/public_html/elecciones/page/new-acta-p.phtml on line 30
+[12-Mar-2019 21:48:36 America/New_York] PHP Fatal error:  Class 'Utils' not found in /home/codibnwv/public_html/elecciones/page/new-acta-p.phtml on line 30
+[12-Mar-2019 21:49:49 America/New_York] PHP Fatal error:  Class 'Utils' not found in /home/codibnwv/public_html/elecciones/page/new-acta-p.php on line 5
+[13-Mar-2019 01:18:55 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/codibnwv/public_html/elecciones/page/new-acta.php on line 41
+[13-Mar-2019 01:29:31 America/New_York] guardar acta
+[13-Mar-2019 01:30:12 America/New_York] guardar acta
+[13-Mar-2019 01:30:41 America/New_York] guardar acta
+[14-Mar-2019 16:44:25 America/New_York] guardar acta
+[14-Mar-2019 16:44:35 America/New_York] guardar acta
+[14-Mar-2019 16:44:41 America/New_York] guardar acta
+[14-Mar-2019 16:45:05 America/New_York] guardar acta
+[14-Mar-2019 16:46:34 America/New_York] guardar acta
+[15-Mar-2019 11:20:45 America/New_York] PHP Notice:  Undefined variable: tipo in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 5
+[15-Mar-2019 15:54:07 America/New_York] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/codibnwv/public_html/elecciones/web/index.php on line 108
+[15-Mar-2019 16:58:26 America/New_York] PHP Notice:  Undefined variable: todo in /home/codibnwv/public_html/elecciones/page/login.php on line 7
+[16-Mar-2019 00:27:10 America/New_York] PHP Notice:  Undefined variable: recinto in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[16-Mar-2019 00:27:10 America/New_York] PHP Notice:  Undefined variable: recinto in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[16-Mar-2019 00:27:10 America/New_York] PHP Notice:  Undefined variable: recinto in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[16-Mar-2019 00:27:10 America/New_York] PHP Notice:  Undefined variable: recinto in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[16-Mar-2019 00:27:25 America/New_York] PHP Notice:  Undefined variable: recinto in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[16-Mar-2019 00:27:25 America/New_York] PHP Notice:  Undefined variable: recinto in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[16-Mar-2019 00:27:25 America/New_York] PHP Notice:  Undefined variable: recinto in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[16-Mar-2019 00:27:25 America/New_York] PHP Notice:  Undefined variable: recinto in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[16-Mar-2019 00:28:48 America/New_York] PHP Notice:  Undefined variable: recinto in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[16-Mar-2019 00:28:48 America/New_York] PHP Notice:  Undefined variable: recinto in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[16-Mar-2019 00:28:48 America/New_York] PHP Notice:  Undefined variable: recinto in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[16-Mar-2019 00:28:48 America/New_York] PHP Notice:  Undefined variable: recinto in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[16-Mar-2019 00:36:43 America/New_York] PHP Notice:  Undefined index: numero in /home/codibnwv/public_html/elecciones/page/new-acta.php on line 44
+[16-Mar-2019 13:00:41 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/codibnwv/public_html/elecciones/page/new-acta.php on line 7
+[16-Mar-2019 13:05:46 America/New_York] PHP Fatal error:  Call to undefined function upper() in /home/codibnwv/public_html/elecciones/page/new-acta.php on line 6
+[16-Mar-2019 15:15:11 America/New_York] PHP Notice:  Undefined variable: id in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 32
+[16-Mar-2019 15:15:11 America/New_York] PHP Notice:  Undefined variable: id in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 32
+[16-Mar-2019 15:15:11 America/New_York] PHP Notice:  Undefined variable: id in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 32
+[16-Mar-2019 15:15:11 America/New_York] PHP Notice:  Undefined variable: id in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 32
+[16-Mar-2019 15:15:11 America/New_York] PHP Notice:  Undefined variable: id in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 32
+[16-Mar-2019 15:18:44 America/New_York] PHP Notice:  Undefined offset: 1 in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 31
+[16-Mar-2019 15:20:01 America/New_York] PHP Notice:  Undefined variable: id in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 38
+[16-Mar-2019 15:20:15 America/New_York] PHP Notice:  Undefined variable: details in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 38
+[16-Mar-2019 15:26:19 America/New_York] PHP Notice:  Undefined variable: details in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 41
+[16-Mar-2019 15:33:08 America/New_York] PHP Notice:  Undefined offset: 1 in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 34
+[16-Mar-2019 22:38:08 America/New_York] PHP Notice:  Undefined offset: 1 in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 22:38:43 America/New_York] PHP Notice:  Undefined offset: 1 in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:17:10 America/New_York] PHP Notice:  Undefined variable: details in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 34
+[16-Mar-2019 23:17:10 America/New_York] PHP Warning:  array_column() expects parameter 1 to be array, null given in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 34
+[16-Mar-2019 23:17:10 America/New_York] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 34
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[16-Mar-2019 23:41:51 America/New_York] PHP Notice:  Undefined variable: found_key in /home/codibnwv/public_html/elecciones/page/new-acta-pb.php on line 35
+[18-Mar-2019 01:53:57 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 7
+[18-Mar-2019 01:54:36 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 7
+[18-Mar-2019 01:57:16 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 7
+[18-Mar-2019 01:57:54 America/New_York] PHP Warning:  json_encode() expects at most 3 parameters, 6 given in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 8
+[18-Mar-2019 01:59:41 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 7
+[18-Mar-2019 02:01:07 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 7
+[18-Mar-2019 02:01:47 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 7
+[18-Mar-2019 02:04:49 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 8
+[18-Mar-2019 02:05:40 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 7
+[18-Mar-2019 02:06:19 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 7
+[18-Mar-2019 02:08:05 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 7
+[18-Mar-2019 02:08:55 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 7
+[18-Mar-2019 02:09:48 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 7
+[18-Mar-2019 12:06:22 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/stats-al.php on line 7
+[18-Mar-2019 15:37:19 America/New_York] PHP Notice:  Undefined index: HTTP_X_REQUESTED_WITH in /home/codibnwv/public_html/elecciones/page/ajaxreq.php on line 3
+[19-Mar-2019 10:23:27 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 45
+[19-Mar-2019 10:30:10 America/New_York] PHP Notice:  Undefined variable: respuesta in /home/codibnwv/public_html/elecciones/page/ajaxreq.php on line 26
+[19-Mar-2019 10:30:23 America/New_York] PHP Notice:  Undefined variable: respuesta in /home/codibnwv/public_html/elecciones/page/ajaxreq.php on line 26
+[19-Mar-2019 12:24:07 America/New_York] PHP Fatal error:  Call to undefined function fetch() in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 54
+[19-Mar-2019 19:15:05 America/New_York] PHP Fatal error:  Call to undefined method Index::getUrlParam() in /home/codibnwv/public_html/elecciones/page/stats-uni.php on line 9
+[20-Mar-2019 01:24:05 America/New_York] PHP Notice:  Undefined variable: tipo in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 5
+[20-Mar-2019 01:24:05 America/New_York] PHP Notice:  Undefined variable: search in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 8
+[20-Mar-2019 01:24:05 America/New_York] PHP Fatal error:  Call to a member function getTipo() on null in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 8
+[20-Mar-2019 01:25:50 America/New_York] PHP Notice:  Undefined variable: search in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 8
+[20-Mar-2019 01:25:50 America/New_York] PHP Fatal error:  Call to a member function getTipo() on null in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 8
+[20-Mar-2019 10:34:10 America/New_York] PHP Fatal error:  Call to undefined method ActaDao::find() in /home/codibnwv/public_html/elecciones/page/view-acta-p.php on line 19
+[20-Mar-2019 11:25:07 America/New_York] PHP Notice:  Undefined index: rpag in /home/codibnwv/public_html/elecciones/page/dashboard.php on line 8
+[20-Mar-2019 11:25:07 America/New_York] PHP Notice:  Undefined index: rows in /home/codibnwv/public_html/elecciones/page/dashboard.php on line 10
+[20-Mar-2019 11:25:07 America/New_York] PHP Notice:  Undefined index: sidx in /home/codibnwv/public_html/elecciones/page/dashboard.php on line 13
+[20-Mar-2019 11:25:07 America/New_York] PHP Notice:  Undefined index: sord in /home/codibnwv/public_html/elecciones/page/dashboard.php on line 15
+[20-Mar-2019 11:27:03 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/codibnwv/public_html/elecciones/page/dashboard.php on line 29
+[20-Mar-2019 12:09:06 America/New_York] PHP Notice:  Undefined variable: pag in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 50
+[20-Mar-2019 12:11:58 America/New_York] PHP Notice:  Undefined index: pagn in /home/codibnwv/public_html/elecciones/page/dashboard.php on line 9
+[20-Mar-2019 12:58:20 America/New_York] PHP Parse error:  syntax error, unexpected '?>', expecting ']' in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 31
+[20-Mar-2019 12:58:33 America/New_York] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 32
+[20-Mar-2019 14:59:31 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 13
+[20-Mar-2019 14:59:53 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 13
+[20-Mar-2019 15:00:04 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 13
+[20-Mar-2019 15:00:34 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 13
+[20-Mar-2019 15:01:22 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 14
+[20-Mar-2019 15:07:23 America/New_York] PHP Warning:  Missing argument 2 for ActaDao::countPaginado(), called in /home/codibnwv/public_html/elecciones/page/dashboard.php on line 22 and defined in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 18
+[20-Mar-2019 15:07:23 America/New_York] PHP Notice:  Undefined variable: escorrecta in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 20
+[20-Mar-2019 15:07:23 America/New_York] PHP Warning:  Missing argument 4 for ActaDao::getAllRecords(), called in /home/codibnwv/public_html/elecciones/page/dashboard.php on line 49 and defined in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 111
+[20-Mar-2019 15:07:23 America/New_York] PHP Notice:  Undefined variable: limit in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 117
+[20-Mar-2019 15:07:57 America/New_York] PHP Warning:  Missing argument 4 for ActaDao::getAllRecords(), called in /home/codibnwv/public_html/elecciones/page/dashboard.php on line 50 and defined in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 111
+[20-Mar-2019 15:07:57 America/New_York] PHP Notice:  Undefined variable: limit in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 117
+[20-Mar-2019 15:13:14 America/New_York] PHP Warning:  Missing argument 3 for ActaDao::countPaginado(), called in /home/codibnwv/public_html/elecciones/page/dashboard.php on line 23 and defined in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 18
+[20-Mar-2019 15:13:14 America/New_York] PHP Notice:  Undefined variable: username in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 23
+[20-Mar-2019 15:13:14 America/New_York] PHP Notice:  Undefined variable: username in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 24
+[20-Mar-2019 15:13:14 America/New_York] PHP Warning:  Missing argument 5 for ActaDao::getAllRecords(), called in /home/codibnwv/public_html/elecciones/page/dashboard.php on line 50 and defined in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 114
+[20-Mar-2019 15:13:14 America/New_York] PHP Notice:  Undefined variable: limit in /home/codibnwv/public_html/elecciones/dao/ActaDao.php on line 123
+[20-Mar-2019 15:20:06 America/New_York] PHP Notice:  Undefined index: numero in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 55
+[20-Mar-2019 15:20:06 America/New_York] PHP Notice:  Undefined index: tipo in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 56
+[20-Mar-2019 15:20:06 America/New_York] PHP Notice:  Undefined index: tfirmas in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 57
+[20-Mar-2019 15:20:06 America/New_York] PHP Notice:  Undefined index: votosblancos in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 58
+[20-Mar-2019 15:20:06 America/New_York] PHP Notice:  Undefined index: votosnulos in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 59
+[20-Mar-2019 15:20:06 America/New_York] PHP Notice:  Undefined index: username in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 60
+[20-Mar-2019 15:20:06 America/New_York] PHP Notice:  Undefined index: tipo in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 61
+[20-Mar-2019 15:20:06 America/New_York] PHP Notice:  Undefined index: idacta in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 64
+[20-Mar-2019 15:21:54 America/New_York] PHP Notice:  Undefined index: numero in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 55
+[20-Mar-2019 15:21:54 America/New_York] PHP Notice:  Undefined index: tipo in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 56
+[20-Mar-2019 15:21:54 America/New_York] PHP Notice:  Undefined index: tfirmas in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 57
+[20-Mar-2019 15:21:54 America/New_York] PHP Notice:  Undefined index: votosblancos in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 58
+[20-Mar-2019 15:21:54 America/New_York] PHP Notice:  Undefined index: votosnulos in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 59
+[20-Mar-2019 15:21:54 America/New_York] PHP Notice:  Undefined index: username in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 60
+[20-Mar-2019 15:21:54 America/New_York] PHP Notice:  Undefined index: tipo in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 61
+[20-Mar-2019 15:21:54 America/New_York] PHP Notice:  Undefined index: idacta in /home/codibnwv/public_html/elecciones/page/dashboard.phtml on line 64
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:45 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:54:47 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:57:57 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:29 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 12:58:31 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:46 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:00:48 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 13:06:02 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 14:40:23 America/New_York] PHP Notice:  Undefined variable: candidato in /home/codibnwv/public_html/elecciones/page/view-acta.phtml on line 52
+[21-Mar-2019 15:06:03 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 35
+[21-Mar-2019 15:06:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 34
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 28
+[21-Mar-2019 15:08:53 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 35
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:16 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 35
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:14:40 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 35
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 35
+[21-Mar-2019 15:32:51 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 36
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 35
+[21-Mar-2019 15:33:59 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 36
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 35
+[21-Mar-2019 15:34:45 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 36
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 32
+[21-Mar-2019 15:36:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 35
+[21-Mar-2019 15:40:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 34
+[21-Mar-2019 15:40:12 America/New_York] PHP Notice:  Undefined variable: acta in /home/codibnwv/public_html/elecciones/page/view-acta.php on line 36
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 50
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 51
+[21-Mar-2019 19:51:55 America/New_York] PHP Notice:  Undefined index: idcandidato in /home/codibnwv/public_html/elecciones/page/view-acta-p.phtml on line 52
+[21-Mar-2019 23:30:47 America/New_York] PHP Parse error:  syntax error, unexpected 'endfor' (T_ENDFOR) in /home/codibnwv/public_html/elecciones/page/stats-cu.phtml on line 9
+[21-Mar-2019 23:31:01 America/New_York] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/codibnwv/public_html/elecciones/page/stats-cu.phtml on line 13
+[21-Mar-2019 23:31:16 America/New_York] PHP Parse error:  syntax error, unexpected 'endfor' (T_ENDFOR) in /home/codibnwv/public_html/elecciones/page/stats-cu.phtml on line 15
+[22-Mar-2019 00:20:52 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 6
+[22-Mar-2019 01:01:03 America/New_York] PHP Notice:  Undefined index: 2-8 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 29
+[22-Mar-2019 01:01:03 America/New_York] PHP Notice:  Undefined index: 127-88-21 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 29
+[22-Mar-2019 01:01:03 America/New_York] PHP Notice:  Undefined offset: 3 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 29
+[22-Mar-2019 01:01:03 America/New_York] PHP Notice:  Undefined offset: 5 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 29
+[22-Mar-2019 12:08:42 America/New_York] PHP Fatal error:  Call to undefined function getDisctinctVotosLista() in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 14
+[22-Mar-2019 12:09:01 America/New_York] PHP Notice:  Undefined offset: 0 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 17
+[22-Mar-2019 12:09:01 America/New_York] PHP Notice:  Undefined offset: 0 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 17
+[22-Mar-2019 12:09:01 America/New_York] PHP Notice:  Undefined offset: 0 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 17
+[22-Mar-2019 12:09:01 America/New_York] PHP Notice:  Undefined offset: 0 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 17
+[22-Mar-2019 12:09:01 America/New_York] PHP Notice:  Undefined offset: 0 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 17
+[22-Mar-2019 12:09:01 America/New_York] PHP Notice:  Undefined offset: 0 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 17
+[22-Mar-2019 12:09:01 America/New_York] PHP Notice:  Undefined offset: 0 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 17
+[22-Mar-2019 12:09:01 America/New_York] PHP Notice:  Undefined offset: 0 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 17
+[22-Mar-2019 12:09:01 America/New_York] PHP Notice:  Undefined offset: 0 in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 17
+[23-Mar-2019 11:49:09 America/New_York] PHP Notice:  Undefined index: pagn in /home/codibnwv/public_html/elecciones/page/dashboard.php on line 18
+[23-Mar-2019 13:50:57 America/New_York] PHP Fatal error:  Call to undefined function getTotalXlistaByDistritoTresPr() in /home/codibnwv/public_html/elecciones/page/stats-cu.php on line 21

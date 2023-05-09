@@ -1,0 +1,19 @@
+<div class="page-header">
+  <h3><?php echo $title; ?></h3>
+  <input type="hidden" id="tipo" value="<?=$tipo?>">
+</div>
+<?php if (isset($invalidrole) && $invalidrole<>''): ?>
+<div class="alert alert-danger" role="alert"><?php echo $invalidrole; ?></div>
+<?php elseif(!empty($records)): ?>
+<div>
+  <div id="chartContainer"style="height: 300px; width: 100%;"></div>  
+</div>
+<div>
+  <div id="chartContainer2" style="height: 300px; width: 100%;"></div>
+</div>
+<div>
+  <div id="chartContainer3" style="height: 384px; width: 100%;"></div>
+</div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script src="../web/js/stats-uni.js"></script>
+<?php endif; ?>

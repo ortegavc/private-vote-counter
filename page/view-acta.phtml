@@ -1,0 +1,102 @@
+<?php if (empty($acta)): ?>
+<p>No ACTA item found.</p>
+<?php else: ?>
+<script type="text/javascript" src="js/actauvalidation.js"></script>
+<div class="page-header">
+  <h3>ACTA VOTACION <?php echo $acta['tipo']; ?></h3>
+  <?php if ($acta['escorrecta']=='N'): ?>
+  <div class="alert alert-warning" role="alert">La suma de los votos no coincide con el total de firmas y huellas dactilares.</div>
+  <?php endif; ?>
+</div>
+<form class="form-horizontal" id="myForm" method="post" onsubmit="return validateForm()">
+    <div class="form-group">
+        <label for="numero" class="col-sm-10 control-label">NUMERO DE ACTA</label>
+        <div class="col-sm-2">
+            <input type="text" class="form-control" name="numero" value="<?= $acta['numero']; ?>" readonly>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="total" class="col-sm-10 control-label">TOTAL FIRMAS Y HUELLAS DACTILARES QUE CONSTAN EN EL PADRÓN ELECTORAL</label>
+      <div class="col-sm-2">
+        <input type="number" class="form-control" id="total" name="total" value="<?= $acta['tfirmas']; ?>" readonly>
+      </div>
+    </div>
+    <div class="form-group">
+        <label for="blancos" class="col-sm-10 control-label">VOTOS BLANCOS</label>
+        <div class="col-sm-2">
+          <input type="number" class="form-control" id="blancos" name="blancos" value="<?= $acta['votosblancos']; ?>" readonly>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="nulos" class="col-sm-10 control-label">VOTOS NULOS</label>
+        <div class="col-sm-2">
+          <input type="number" class="form-control" id="nulos" name="nulos" value="<?= $acta['votosnulos']; ?>" readonly>
+        </div>
+    </div>
+  <input type="hidden" name="idacta" value="<?=$acta['idacta']?>">
+  <div class="panel panel-default">
+    <div class="panel-heading">VOTACION OBTENIDA POR LOS CANDIDATOS</div>
+    <table class="table table-condensed">
+      <thead>        
+        <tr>          
+          <th>LISTAS</th>
+          <th>CANDIDATOS</th>
+          <th>VOTOS</th>
+        </tr>
+      </thead>
+      <tbody>            
+      <?php foreach ($acta['details'] as $detalle): ?>
+        <tr>
+          <td><?= $detalle['listas_codigolista'] ?></td>
+          <td><?= utf8_encode($detalle['nombre']) ?></td>
+          <td><input type="number" class="form-control" id="<?= $detalle['idcandidato'] ?>" name="<?= 'vn_'.$detalle['idcandidato'] ?>" value="<?= $detalle['votosnominales'] ?>" readonly></td>
+        </tr>
+      <?php endforeach; ?>
+      </tbody>
+    </table>
+  </div>
+  <div>
+    <button type="button" id="btnShowModal" class="btn btn-default" onclick="$('#myModal2').modal('show');">Activar editar</button>
+    <button type="button" id="btnCancelar" class="btn btn-default" onclick="location.reload();" style="visibility:hidden;">Cancelar</button>
+    <button type="submit" id="btnEditar" class="btn btn-primary" style="visibility:hidden;">Editar</button>
+  </div>
+</form>
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Alerta</h4>
+      </div>
+      <div class="modal-body">
+        <p id="msgvalidation"></p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+        <button type="button" class="btn btn-default" onclick="enviarForm()">Registrar</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Alerta</h4>
+      </div>
+      <div class="modal-body">
+        <p>
+          ¿Desea activar la edición del acta?
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn" onclick="activarEdicion()">Activar</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+      </div>
+    </div>
+  </div>
+</div>
+<?php endif; ?>

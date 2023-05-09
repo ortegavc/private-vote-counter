@@ -1,0 +1,15 @@
+<div class="page-header">
+  <h3>Elecciones seccionales 2019 - Concejales - Rurales</h3>
+</div>
+<?php if($votosxlista):?>
+<table class="table table-bordered">
+    <tr><th>LISTA</th><th>NOMBRE</th><th>VOTOS</th></tr>
+    <?php foreach ($votosxlista as $row):?>
+    <tr>
+        <td><?=$row['lista']?></td>
+        <td><?= utf8_encode($row['nombre'])?></td>
+        <td><?=$row['votos']?></td>
+    </tr>
+    <?php endforeach;?>
+</table>
+<?php endif; ?>

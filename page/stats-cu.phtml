@@ -1,0 +1,41 @@
+<div class="page-header">
+  <h3><?php echo $title; ?></h3>
+</div>
+<h4>Distribución de votos</h4>
+<table class="table table-bordered">
+	<tr>
+		<th>Listas</th>
+	<?php foreach($votosxlista as $l): ?>
+		<th class="text-center"><?=$l['lista']?></th>
+	<?php endforeach; ?>
+	</tr>
+	<tr>
+		<th>Votos</th>
+	<?php foreach($votosxlista as $v): ?>
+		<td class="text-center"><?=$v['votos']?></td>
+	<?php endforeach; ?>
+	</tr>
+</table>
+<h4>Asignación de escaños por lista</h4>
+<table class="table table-bordered">
+	<tr><th>&nbsp;</th><th>/1</th><th>/2</th><th>/3</th><th>/4</th><th>/5</th></tr>
+	<?php foreach($cocientesxlista as $k => $a): ?>
+	<tr>
+		<td><?=$k?></td>
+		<?php foreach($a as $v): ?>
+		<td <?php if(in_array($v, $cocientesaltos)): echo 'style="background:palegreen"'; endif;?>><?=$v?></td>
+		<?php endforeach; ?>
+	</tr>
+	<?php endforeach; ?>
+</table>
+<h4>Candidatos asignados</h4>
+<table class="table table-bordered">
+	<tr><th>Lista</th><th>Nombre</th><th>Votos</th></tr>
+	<?php foreach($seleccionados as $candidato): ?>
+	<tr>
+		<td><?=$candidato['lista']?></td>
+                <td><?= utf8_encode($candidato['nombre'])?></td>
+		<td><?=$candidato['votos']?></td>
+	</tr>
+	<?php endforeach; ?>
+</table>

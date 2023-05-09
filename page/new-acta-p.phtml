@@ -1,0 +1,48 @@
+<?php if (empty($recintos)): ?>
+    <p>No TODO items found.</p>
+<?php else: ?>
+<div class="page-header">
+  <h3>ACTA VOTACION CONCEJALES</h3>
+</div>
+<form method="post">
+  <div class="form-group">
+      <label for="recinto" class="col-sm-4 control-label">SELECCIONE RECINTO</label>
+      <div class="col-sm-8">
+        <input class="form-control" id="myInput" type="text" placeholder="Search.." name="recinto">
+      </div>
+  </div>
+  <div class="form-group">
+    <table class="table table-condensed table-striped">
+      <thead>
+          <tr>
+              <th>CODIGO</th>
+              <th>NOMBRE</th>
+              <th>DISTRITO</th>
+              <th>&nbsp;</th>
+          </tr>
+      </thead>
+      <tbody id="myTable">
+          <?php foreach ($recintos as $recinto): ?>
+              <tr>
+                  <td><?= $recinto['idrecinto'] ?></td>
+                  <td><?= utf8_encode($recinto['nombre']) ?></td>
+                  <td><?= $recinto['distrito'] ?></td>
+                  <td><a href="<?php echo Utils::createLink('new-acta-pb', array('idr' => $recinto['idrecinto'], 'dis' => $recinto['distrito'])); ?>">Ingresar acta</a></td>
+              </tr>
+          <?php endforeach; ?>
+      </tbody>
+  </table>
+  </div>
+  
+</form>
+<script>
+  $(document).ready(function(){
+    $("#myInput").on("keyup", function() {
+      var value = $(this).val().toLowerCase();
+      $("#myTable tr").filter(function() {
+        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+      });
+    });
+  });
+</script>
+<?php endif; ?>

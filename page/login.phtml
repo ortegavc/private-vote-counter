@@ -1,0 +1,16 @@
+<form class="form-signin" method="post" action="index.php?page=login">
+  <h2 class="form-signin-heading">Iniciar sesión</h2>
+  <label for="inputEmail" class="sr-only">Nombre de usuario</label>
+  <input type="text" name="inputUsername" class="form-control" placeholder="Nombre de usuario" required autofocus>
+  <label for="inputPassword" class="sr-only">Contraseña</label>
+  <input type="password" name="inputPassword" class="form-control" placeholder="Contraseña" required>
+  <div class="checkbox">
+    <label>
+      <input type="checkbox" name="remember-me" value="remember-me"> Recordarme
+    </label>
+  </div>
+  <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+</form>
+<?php if ($errormsg <> ''): ?>
+  <div class="alert alert-danger" role="alert"><?php echo $errormsg; ?></div>
+<?php endif; ?>
