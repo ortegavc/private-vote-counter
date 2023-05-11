@@ -122,7 +122,7 @@ final class ActaDao {
 
     public function getSumVNCandidatoByTipo($tipo) {
         $result = array();
-        $sql = "SELECT d.candidatos_idcandidato, p.nombre, SUM(d.votosnominales) FROM actas a INNER JOIN acta_detail d on a.idacta = d.actas_idacta INNER JOIN candidatos c ON d.candidatos_idcandidato = c.idcandidato inner join personas p ON c.personas_idpersona = p.idpersona WHERE a.tipo = '$tipo' GROUP BY d.candidatos_idcandidato";
+        $sql = "SELECT d.candidatos_idcandidato, p.nombre, SUM(d.votosnominales) FROM actas a INNER JOIN acta_detail d on a.idacta = d.actas_idacta INNER JOIN candidatos c ON d.candidatos_idcandidato = c.idcandidato inner join personas p ON c.personas_idpersona = p.idpersona WHERE a.tipo = '$tipo' GROUP BY d.candidatos_idcandidato, p.nombre";
         foreach ($this->query($sql) as $row) {
             $result[] = $row;
         }
