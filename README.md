@@ -15,5 +15,5 @@ The application uses a number of open source projects:
 ## Features
 1. Login
 <p align="center">
-  <a href="#" target="_blank"><img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_login.jpeg"></a>
+  <a href="#" target="_blank"><img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_login.png"></a>
 </p>
