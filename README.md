@@ -15,7 +15,7 @@ The application uses a number of open source projects:
 ## Features
 1. Login
 <p align="center">
-  <a href="#" target="_blank"><img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_login.png"></a>
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_login.png">
 </p>
 
 2. Welcome
@@ -30,5 +30,35 @@ The application uses a number of open source projects:
 
 3. Record of mayor's vote
 <p align="center">
-  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_acta_alcaldes.jpeg">
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_alcaldes.jpeg">
+</p>
+
+4. Voting record of urban area councilors
+<p align="center">
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_concejales.jpeg">
+</p>
+
+6. Record of votes cast for councilors in rural areas
+<p align="center">
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_concejales_rurales.jpeg">
+</p>
+
+7. Indicator votes for mayors
+<p align="center">
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_charts_alcaldes.jpeg">
+</p>
+
+8. Indicator votes for prefect
+<p align="center">
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_charts_prefectos.jpeg">
+</p>
+
+9. Indicators votes for urban area councilors
+<p align="center">
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_charts_concejales.jpeg">
+</p>
+
+10. Audit trail and review of digitized minutes
+<p align="center">
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_audit_actas.jpeg">
 </p>
