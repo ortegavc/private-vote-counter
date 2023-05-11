@@ -28,19 +28,19 @@ The application uses a number of open source projects:
   <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_acta_prefectos.jpeg">
 </p>
 
-3. Record of mayor's vote
+4. Record of mayor's vote
 <p align="center">
   <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_alcaldes.jpeg">
 </p>
 
-4. Voting record of urban area councilors
+5. Voting record of urban area councilors
 <p align="center">
   <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_concejales.jpeg">
 </p>
 
 6. Record of votes cast for councilors in rural areas
 <p align="center">
-  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_concejales_rurales.jpeg">
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_consejales_rurales.jpeg">
 </p>
 
 7. Indicator votes for mayors
@@ -55,7 +55,7 @@ The application uses a number of open source projects:
 
 9. Indicators votes for urban area councilors
 <p align="center">
-  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_charts_concejales.jpeg">
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_charts_consejales.jpeg">
 </p>
 
 10. Audit trail and review of digitized minutes
