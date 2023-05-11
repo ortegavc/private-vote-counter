@@ -4,7 +4,6 @@ Alternate vote counting application for mayoral elections 2019 in the city of Ma
 ## Tech
 
 The application uses a number of open source projects:
-
 - PHP
 - MariaDB
 - JavaScript
@@ -13,6 +12,16 @@ The application uses a number of open source projects:
 - CanvaJS
 
 ## Features
+This application demonstrates the following features:
+- OOP concepts
+- Preventing public access to scripts
+- Config files to separate enviroments
+- Accessing database data
+- Validating data
+- Splitting scripts and templates
+- Handling exepected and unexpected exceptions
+
+## Demos
 1. Login
 <p align="center">
   <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_login.png">
