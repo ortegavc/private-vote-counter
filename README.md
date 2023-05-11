@@ -17,3 +17,18 @@ The application uses a number of open source projects:
 <p align="center">
   <a href="#" target="_blank"><img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_login.png"></a>
 </p>
+
+2. Welcome
+<p align="center">
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_welcome.png">
+</p>
+
+3. Record of prefect's vote
+<p align="center">
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_acta_prefectos.jpeg">
+</p>
+
+3. Record of mayor's vote
+<p align="center">
+  <img src="https://www.codibros.com/demo_screen_shots/vote_counter/vote_counter_acta_alcaldes.jpeg">
+</p>
